@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603741556 source:c:\users\leandro barros\desktop\alocdinamica\agenda\agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
